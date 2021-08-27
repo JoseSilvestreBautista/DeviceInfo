@@ -5,5 +5,5 @@ The most memorable challenge I have faced when it comes to Android programming w
 
 ## Demonstration
 This is a demo of the project. <br /> 
-![](ezgif.com-gif-maker.giff) 
+![](ezgif.com-gif-maker.gif)
 
